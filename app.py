@@ -83,6 +83,6 @@ def handle_messages():
     return "ok", 200
 
 if __name__ == '__main__':
-    # Render (and other servers) tell the app which port to use via an environment variable
-    port = int(os.environ.get("PORT", 5000))
+    # This must match what Render expects
+    port = int(os.environ.get("PORT", 10000))
     app.run(host='0.0.0.0', port=port)
