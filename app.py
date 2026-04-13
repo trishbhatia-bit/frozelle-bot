@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 # CONFIGURATION - Updated with your Long-Lived Page Token
-ACCESS_TOKEN = "EAAQ7FrigLZCgBRK2f2ZCsSW4fO8suQuZBxxF3cnyjuWsIQ77q46Qq7k9ExO78or6QA22u9OWL1WDaAA4MBZCVKDhzf8CZBuAeT8Wr4B6RNSXO2KEiLJ4gRAw3VYrgL1dzVNJqXmWzo77a3nWLXSnhGjyoiHHZAeIcFS4L1DqJKStWsdOWaQxyOwb4lgfZCN1SKGKxZCHK9hu"
+ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN") # This looks for the token on the server
 VERIFY_TOKEN = "frozelle_bot_2026" 
 PAGE_ID = "1112375071951427"
 
