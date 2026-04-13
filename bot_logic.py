@@ -2,7 +2,8 @@ import os
 import json
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-from dotenv import load_dotenv # <--- Add this
+from dotenv import load_dotenv
+import random
 
 load_dotenv() # <--- This loads the variables from your .env file
 
