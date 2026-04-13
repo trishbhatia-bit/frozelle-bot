@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mythic-tribute-491309-h7",
+  "private_key_id": "32cf83a61d4d67e29328543c175346f3499b9193",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgGXbT3Xdq9Ah7\nSxMKwlxz8ahrDRQpP9GQp+fcALoZ0cS5vt4SOP0W96Hgz2GX/LcmynBSZB+A7mj9\n5eqtsOYXnIq+aNE/JVEPyV5gxuTCjwwMDST3s4lfSccam9npRs+AIQldMiqtK6kS\nkeaeVlAGW6yBguibd9at2HfL6NpE86ycQtfPU7UgiOBSfQgLN+uYJOKgjoGDFbEV\nZAfCoHcdxkb3044aHpd10d+Q6hwUN4rIfR8i0DhshJAR+J2+wUefybe9zx0NVJmB\nDssY41GkNl6ZcQx+TKai/MOINTUnCt+wKf7V4Ajy4KoFb4CUmQO44OQXsMSaDq6/\nKzOyvndXAgMBAAECggEAbpbyZoRcuambA+kdCQq4YDlJ4SZPpDmLvCS4DYBIVpSH\nzhgsc/auoyZqOsxsf3olkh2Fx4sEZvaAVoefQ77QFafZajTEyjIqqi04B28vlfnM\nuqfD7f8qFB2PBYkSxQV+Qd9LxTOMDvBEW9cnZUz36eNUoocNLie6CAmSuMx85lgj\nj/AfOKFR7el6p2kXkqtT34JMeEK0Yg6kdOd+aECRS7vT/78djHs4/TOl8+FPb/YW\nB3mBS53lEKJq/AlWhpCk+RlfxkQxog7rz/YmLWkRA+wxley6LM5L+6z087gRLFJR\n1raZxY3s6YrH9KGFS6lWZupA486UmIX+tVBh5cJYUQKBgQDzexnJWiryiciOm/lJ\ne8b02zIPpIZpZh6fwHd/nTFTvXqVpNFqyAqB/YcCX3YIWnp9eVonnOPMOv1RGfZd\n0xN8rU1CEVzEZF3R81JuGtH2Ab8ourSjTV+3umH+7nECsganvWLMDViXYFLHDIFf\noQ+KNvtngfKIdOo8Yyae8nsRUQKBgQDrnz/R/Svf2MZ/Ki6pF2IgNnhlFry6tTZP\nBmT30gtUuBsHtrYfcfjPp9H0AWh2Y/MnmZ4SK3ejtG93f3Tr4t4XzxrfxK0kxpRZ\n2GtJkTkyh4YFM1SoSBQi9RZ7kRAox/+7rqdTnZ4RBOaBQYMFNbzKXdD0kGV6mgrH\nXqgxfTyUJwKBgAX7PjTuHCP9MooeVs9xVP/q6p3rwsmQEqyGA+mEqROPkhVfCS4A\nYBG1cr2iLrohzuSKOKbEeewoftShOKYxa0ci0sUOvCKu/IcN3TaLPiE3BcUwYQOq\nAPH4iDPFE82nJfa09lpg8Y42dZIiQoNg54rTsvVmAdlMVfzJyscY2eEhAoGBAN5O\nJP+xtxh+xWErYlTFLB6qZdMyraQW3wOWS+MJeQlYnqAbgh+O/6qkctGeFnpE+SBu\nrpYEDuAUmGqNhbodFWAvVfKz9IxTE5rlNux1KRsEhK0ZbhFL2DvXM3woNK/VavIf\n6d1ZQ85Y6kYfkkdzGQlxlHl6V1RiTDMomtX+jA5XAoGBAMBZhYwUdakgN9iY/Kkm\n2Nrchmgm8YqXXGTorVWlJrTJS10qMFLy6gJ4jQeqrgDzCnfyGEzimMyFjvIABWoe\n1v6QQpdg9791bLXdg+CdCW0fp2O1FkHTbE3y4+Q1f5z/vUdZ09lmf4dCiEycwfUj\ndq+sISt+GkwwBpscZdg6XLlW\n-----END PRIVATE KEY-----\n",
+  "client_email": "frozelle-creamery@mythic-tribute-491309-h7.iam.gserviceaccount.com",
+  "client_id": "104552879711582456530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/frozelle-creamery%40mythic-tribute-491309-h7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
