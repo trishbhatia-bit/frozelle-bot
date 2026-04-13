@@ -1,4 +1,4 @@
-# Frozelle Instagram Coupon Bot 🍦
+# Frozelle Creamery Instagram Coupon Bot 🍦
 
 A production-ready automation pipeline that handles Instagram Direct Messages, validates keywords, and distributes randomized digital coupons while logging all transactions to a centralized database.
 
